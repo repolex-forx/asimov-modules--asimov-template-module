@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-template-module",
+  "versions": [
+    {
+      "commit": "e1efc722133adfef3a3224d66d6be3fe6a38c11f",
+      "parsed_at": "2026-09-27T19:33:43.720411+00:00",
+      "tag": "master",
+      "filetree": "filetree/e1efc722133adfef3a3224d66d6be3fe6a38c11f.nq.gz",
+      "blobs": [
+        "blob/2b0c788e2596d934456a7ce78cc4e7f3fe40e217.nq.gz",
+        "blob/79c79618be771f01008eaa2ad7076a2e499476ae.nq.gz",
+        "blob/967edde49a597c4ccfd40a4d4237af5e2a948dcc.nq.gz",
+        "blob/561bded07990df561b61d488d4441b886322af9a.nq.gz",
+        "blob/8758b2d80dbf8df05689fb8ad6fdeeb7225cb127.nq.gz",
+        "blob/20c240c279ffafed6a0539670b6af566798893d1.nq.gz",
+        "blob/17887660b46a54e5eb6a74b3be3a8d3fbcd5310d.nq.gz",
+        "blob/9fe50de16e59d550235aa6d7d15ee12ddf054414.nq.gz",
+        "blob/a36fedab8db68b26a76fbbf1de1f549e4a12261b.nq.gz",
+        "blob/6b23d61018f43b840f8d2ff3b45a1c02d76df38d.nq.gz",
+        "blob/10b359dd05935c73efb064470f9ecda90f6d28aa.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/cf42f6893594e2f8be2b722de51123d65e4d61c4.nq.gz",
+        "blob/75e3b65f99b29f48ab230e3eab3de8d0b7a9229f.nq.gz",
+        "blob/c9479375f093e94bbe3b2803d17a8fbddc8a97cf.nq.gz",
+        "blob/c5e5bb9cfd39b6b948d2e16b1a33692f6f714d83.nq.gz",
+        "blob/4daabde3d2423750b7f7c12a9d0e60bd8fc7d051.nq.gz",
+        "blob/e3e57a8ce4ccbf74759a6df8fa4a3980ff1c9209.nq.gz",
+        "blob/1d013ff92fa855fb03f148d15f9488c339392020.nq.gz",
+        "blob/8b862e8576bee744ba8c5970c7dadb805c05e9d1.nq.gz",
+        "blob/77d6f4ca23711533e724789a0a0045eab28c5ea6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/af9908b08f4b33c32a0080af73f53bc0fa0cdce4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
